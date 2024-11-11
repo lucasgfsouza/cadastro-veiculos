@@ -1,6 +1,5 @@
 /**
  * Valida o formato da placa de um veículo com base no ano de fabricação.
- *
  * Novo padrão (Mercosul): ABC1D23
  * Antigo padrão (Brasil): ABC-1234
  *
